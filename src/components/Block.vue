@@ -39,7 +39,7 @@ export default {
     .block{
         width: 400px;
         border-radius: 20px;
-        background: indianred;
+        background: plum;
         color: white;
         text-align: center;
         padding: 100px 0;
